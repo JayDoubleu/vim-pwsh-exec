@@ -23,3 +23,5 @@ Or map to key in your  init.vim :
 ```
 autocmd FileType ps1 noremap <KEY> :PWSHEXEC...<CR>
 ```
+
+[![asciicast](https://asciinema.org/a/l2dZ9yhXdlnWT2exdYfHxsPSJ.svg)](https://asciinema.org/a/l2dZ9yhXdlnWT2exdYfHxsPSJ)
